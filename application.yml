@@ -1,6 +1,6 @@
 service:
-    message: 'Hello application default'
+    message: 'Hello application default updated'
 eureka:
     client:
         serviceUrl:
-            defaultZone: http://localhost:8761/eureka
+            defaultZone: http://localhost:8111/eureka
